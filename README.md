@@ -58,4 +58,4 @@ documentation, QA issue tracking, collaboration, and project monitoring.
 | QA-01 | LED pin configuration | Resolved |
 | QA-02 | LED ON/OFF timing | Resolved |
 | QA-03 | Code documentation | Resolved |
-| QA-04 | Hardware output verification | Pending/Resolved |
+| QA-04 | Hardware output verification | Resolved |
